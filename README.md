@@ -12,7 +12,7 @@ Visit the [live demo](https://wendyqnguyen.github.io/wqn-portfolio/)!
 * Javascript
 
 ## Screenshot
-<p align="center"><img src="./assets/images/screenshot.jpeg"></p>
+<p align="center"><img src="./screenshot.jpeg"></p>
 
 ### Deployment
 
